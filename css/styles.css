@@ -82,6 +82,13 @@ header h1, header h2 {
   right: 0;
 }
 
+#recommendation {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  /*width: 49%;*/
+}
+
 /* footer */
 footer {
   text-align: center;
