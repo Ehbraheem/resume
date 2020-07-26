@@ -76,6 +76,11 @@ header h1, header h2 {
 .profile-img {
   border-radius: 50%;
 }
+.work-sample-img {
+  border-radius: 10%;
+  width: fit-content;
+}
+
 .download {
   position: absolute;
   bottom: 0;
@@ -120,7 +125,7 @@ h3 ~ p {
   margin: 0;
 }
 .job-description {
-  margin-bottom: 25px;
+  margin-bottom: 80px;
 }
 .job-description p:first-of-type {
   margin-top: 0;
